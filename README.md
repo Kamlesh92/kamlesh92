@@ -17,7 +17,7 @@
   <a href="https://leetcode.com/u/Kamlesh_21/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://x.com/YOUR_X_USERNAME">
+  <a href="https://x.com/Kamlesh_63">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x"/>
   </a>
 </p>
